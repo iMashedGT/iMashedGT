@@ -15,19 +15,16 @@
 
 - 🌱 I’m currently learning **everything** 🤓
 
-- 📫 Reach me out at **[Discord]()**
+- 📫 Reach me out at **[Discord](https://discord.com/users/209222461357686795)**
 
 </details>
   
 </p>
   
-## 📊 Discord Stats
+## 📊 Statistic
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/iMashedGT/iMas/main/images/land.png"/>
 
   <a href="https://discord.com/users/209222461357686795"><img width="50%" src="https://lanyard-profile-readme.vercel.app/api/209222461357686795?theme=dark&bg=080614&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Doing%20Maou-sama%20things...&hideBadges=true"></a>
-
-## 🎮 Steam Game Journey
-
 <p align="left">
     <a href="https://steamcommunity.com/id/dunndundun/"><img width="50%" src="https://steam-stat.vercel.app/api?profileName=dunndundun" alt="readme-typing-svg"></a></p>
